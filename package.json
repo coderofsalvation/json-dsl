@@ -1,6 +1,6 @@
 {
   "name": "json-dsl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "easily create dsl's from json by evaluating json keys and values, json decode on steroids",
   "main": "index.js",
   "directories": {
