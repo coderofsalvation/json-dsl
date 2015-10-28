@@ -1,0 +1,42 @@
+{
+  "name": "json-dsl",
+  "version": "1.0.2",
+  "description": "easily create dsl's from json by evaluating json keys and values, json decode on steroids",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://coderofsalvation@github.com/coderofsalvation/json-dsl.git"
+  },
+  "keywords": [
+    "dsl",
+    "json",
+    "minilanguage",
+    "evaluate",
+    "json",
+    "keys",
+    "traverse",
+    "json",
+    "json",
+    "template",
+    "json",
+    "mapper",
+    "json",
+    "to",
+    "html",
+    "json",
+    "to",
+    "xml"
+  ],
+  "author": "Coder of Salvation",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/coderofsalvation/json-dsl/issues"
+  },
+  "homepage": "https://github.com/coderofsalvation/json-dsl#readme"
+}
